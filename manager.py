@@ -121,14 +121,6 @@ class mgrQuery:
         # 控件布局
         self.initialize()
 
-        """self.delButton = tkinter.Button(self.frame, text='删除账号', command=self.deleteAccount)
-
-        self.initialize()
-
-        self.updateButton =  tkinter.Button(self.frame, text='更新账号', command=self.updateButton)
-
-        self.initialize()"""
-
     def initialize(self):
         self.frame.place(relx=RADIO, relheight=1, relwidth=1-RADIO)
 
