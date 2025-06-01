@@ -400,13 +400,6 @@ class mgrNew:
         self.frame.update()
         self.stuButton.place(x=self.tcButton.winfo_width() + 10, y=INFO_TEXT_LINE_SPACE * 5)
 
-        """self.enterButton.place(x=self.ageEntry.winfo_x() + self.ageEntry.winfo_width() + 10,
-                               y=INFO_TEXT_LINE_SPACE * 4)
-        self.delButton.place(x=self.enterButton.winfo_x() + self.enterButton.winfo_width() + 10,
-                             y=INFO_TEXT_LINE_SPACE * 4)
-        self.updateButton.place(x=self.delButton.winfo_x() + self.delButton.winfo_width() + 10,
-                             y=INFO_TEXT_LINE_SPACE * 4)"""
-
         self.promptLabel.place(x=15, y=INFO_TEXT_LINE_SPACE * 6)
 
 
