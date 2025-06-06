@@ -5,5 +5,5 @@
 也可以运行主文件login_window.py
 ## 打包教程
 打开pycharm的终端命令行，输入命令<br>
-  pyinstaller --onefile --windowed --icon=login_window.py<br>
+  pyinstaller --onefile --windowed login_window.py<br>
   就可以打包成功啦
