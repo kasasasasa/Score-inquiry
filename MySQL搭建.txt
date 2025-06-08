@@ -1,4 +1,4 @@
-CREATE DATABSAES  courseselection1;
+CREATE DATABASE courseselection1;
 use courseselection1;
 
 CREATE TABLE IF NOT EXISTS tb_student(
