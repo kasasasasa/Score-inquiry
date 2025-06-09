@@ -1,4 +1,4 @@
-# sgqs
+# Score-inquiry
 ## 我的数据库课设（My Database Course Project）
 该项目基于tkinter、pymysql框架<br>
 实现GUI界面与MySQL数据库的连接<br>
