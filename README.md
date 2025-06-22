@@ -1,8 +1,8 @@
 # Score-inquiry
 ## 我的数据库课设（My Database Course Project）
-该项目基于tkinter、pymysql框架<br>
-实现GUI界面与MySQL数据库的连接<br>
-具有管理员、教师、学生三个权限身份，并实现了后端密码加密<br>
+本项目基于 Tkinter GUI 框架构建用户界面<br>
+并利用 PyMySQL 数据库驱动实现与 MySQL 数据库的稳定连接<br>
+系统设计了三级权限体系（管理员、教师、学生），并实现了后端密码加密机制以确保用户凭证的安全存储<br>
 推荐编译器：PyCharm
 ***
 ### 系统提供的功能如下：
