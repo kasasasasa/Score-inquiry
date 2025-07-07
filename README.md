@@ -1,5 +1,5 @@
 # Score-inquiry
-## 我的数据库课设（My Database Course Project）
+## | 成绩管理系统 | 我的数据库课设（My Database Course Project）
 本项目基于 Tkinter GUI 框架构建用户界面<br>
 并利用 PyMySQL 数据库驱动实现与 MySQL 数据库的稳定连接<br>
 系统设计了三级权限体系（管理员、教师、学生），并实现了后端密码加密机制以确保用户凭证的安全存储<br>
